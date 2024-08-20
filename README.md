@@ -23,4 +23,4 @@ I am Vivek Nadig, a  computer science under graduate from [SJB Institute of Tech
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=viveknadig&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=viveknadig&count_private=false&show_icons=true&include_all_commits=true)
