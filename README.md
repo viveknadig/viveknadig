@@ -1,5 +1,11 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-I am Vivek Nadig, a  computer science under graduate from [SJB Institute of Technology](https://sjbit.edu.in/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+**Vivek Nadig**  
+Associate Software Developer @ [Flatworld AI](https://www.flatworld.ai/)  
+Computer Science, [SJB Institute of Technology](https://sjbit.edu.in/)  
+Open-source contributor & tech enthusiast  
+
+Let’s build something great.
 
 [![Linkedin Badge](https://img.shields.io/badge/-viveknadig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viveknadig/)](https://www.linkedin.com/in/viveknadig/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=https://mailto:viveknadig@outlook.com/)](mailto:viveknadig@outlook.com/)
@@ -21,6 +27,15 @@ I am Vivek Nadig, a  computer science under graduate from [SJB Institute of Tech
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) 
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square) 
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs) 
+![SSMS](https://img.shields.io/badge/-SSMS-black?style=flat-square&logo=microsoftsqlserver) 
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) 
+
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=viveknadig&count_private=false&show_icons=true&include_all_commits=true)
